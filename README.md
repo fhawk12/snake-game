@@ -11,11 +11,11 @@ make
 ./game
 ```
 
-| Key | Function   |
-| --- | ---------- |
-| q   | Quit game  |
-| r   | Reset game |
-
-# Todo
-
-- [ ] Record score function
+| Key   | Function   |
+| ----- | ---------- |
+| up    | go up      |
+| down  | go down    |
+| left  | go left    |
+| right | go right   |
+| q     | Quit game  |
+| r     | Reset game |
