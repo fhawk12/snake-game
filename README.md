@@ -13,9 +13,9 @@ make
 
 | Key   | Function   |
 | ----- | ---------- |
-| up    | go up      |
-| down  | go down    |
-| left  | go left    |
-| right | go right   |
-| q     | Quit game  |
-| r     | Reset game |
+| Up    | Go up      |
+| Down  | Go down    |
+| Left  | Go left    |
+| Right | Go right   |
+| Q     | Quit game  |
+| R     | Reset game |
